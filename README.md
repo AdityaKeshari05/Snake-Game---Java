@@ -3,7 +3,7 @@
 ## 🎯 Overview
 This is a classic *Snake Game* built using *Java and Swing*.  
 The game allows players to control a snake that grows in size after eating apples while avoiding collisions with the walls and itself.  
-It also includes features like score tracking, skins, coins, and league systems (if implemented).
+It also includes features like score tracking, skins, coins, and league systems .
 
 ---
 
@@ -15,7 +15,7 @@ It also includes features like score tracking, skins, coins, and league systems 
 - 🏅 League system (Bronze → Diamond) based on score  
 - 🐍 Changeable snake skins and apple designs  
 - 💾 Data persistence with MySQL (user profiles, coins, scores)  
-- 📊 Leaderboard system (optional, if added)  
+- 📊 Leaderboard system
 
 ---
 
